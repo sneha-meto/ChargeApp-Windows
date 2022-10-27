@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChargeApp", "ChargeApp\ChargeApp.csproj", "{3BC8F335-F2FF-40D4-B9D6-9ACABB01975D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC8F335-F2FF-40D4-B9D6-9ACABB01975D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC8F335-F2FF-40D4-B9D6-9ACABB01975D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC8F335-F2FF-40D4-B9D6-9ACABB01975D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC8F335-F2FF-40D4-B9D6-9ACABB01975D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5BD157C-D4FC-4C99-9E13-80529138E2A2}
+	EndGlobalSection
+EndGlobal
